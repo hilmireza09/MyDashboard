@@ -1,6 +1,6 @@
 # MyDashboard
 
-Welcome to **MyDashboard** – a collection of interactive dashboards built using **Power BI** and **Tableau**. As a Data Analyst with 2 years of experience, I have developed these dashboards to provide insightful visualizations and data-driven decision-making tools.
+Welcome to **MyDashboard** – a collection of interactive dashboards built using **Power BI**, **Tableau**, and **Looker Studio** . As a Data Analyst with 2 years of experience, I have developed these dashboards to provide insightful visualizations and data-driven decision-making tools.
 
 ## 📌 Overview
 This repository showcases my expertise in data visualization through four different dashboards:
@@ -24,7 +24,7 @@ This repository showcases my expertise in data visualization through four differ
 | `Aero Data Dashboard.pbix` | Power BI | Customer segmentation analysis |
 | `Revenue Insights Dashboard.pbix` | Power BI | Financial KPIs visualization |
 | `Market Analysis.twbx` | Tableau | Market insights and competition analysis |
-| `Hangry` | Looker Studio | Market insights and competition analysis |
+| `Hangry`(https://lookerstudio.google.com/u/0/reporting/dfd39f25-29ba-4758-ada5-079cccb29dcb/page/XHCCE/edit) | Looker Studio | Market insights and competition analysis |
 
 
 ## 🚀 How to Use
