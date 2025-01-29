@@ -23,7 +23,7 @@ This repository showcases my expertise in data visualization through four differ
 | [`Financial Dashboard.pbix`](https://github.com/hilmireza09/MyDashboard/blob/main/Dashboards/Financial%20Dashboard.pbix) | Power BI | Visualizing key financial metrics and trends |
 | [`Aero Data Dashboard.pbix`](https://github.com/hilmireza09/MyDashboard/blob/main/Dashboards/Aero%20Data%20Dashboard.pbix) | Power BI | Analyzing aviation data for performance insights |
 | [`Revenue Insights Dashboard.pbix`](https://github.com/hilmireza09/MyDashboard/blob/main/Dashboards/Revenue%20Insights%20Dashboard.pbix) | Power BI | Tracking revenue trends and business performance |
-| `Market Analysis.twbx` | Tableau | Exploring market trends and consumer behavior |
+| [`Stock Market Dashboard.twbx`](https://github.com/hilmireza09/MyDashboard/blob/main/Dashboards/Stock%20Market%20Dashboard.twbx) | Tableau | Exploring market trends and consumer behavior |
 | [`Hangry`](https://lookerstudio.google.com/u/0/reporting/dfd39f25-29ba-4758-ada5-079cccb29dcb/page/XHCCE/edit) | Looker Studio | Monitoring sales performance and growth at Hangry |
 
 
