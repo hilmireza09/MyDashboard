@@ -24,7 +24,7 @@ This repository showcases my expertise in data visualization through four differ
 | `Aero Data Dashboard.pbix` | Power BI | Customer segmentation analysis |
 | `Revenue Insights Dashboard.pbix` | Power BI | Financial KPIs visualization |
 | `Market Analysis.twbx` | Tableau | Market insights and competition analysis |
-| `Hangry` [here](https://lookerstudio.google.com/u/0/reporting/dfd39f25-29ba-4758-ada5-079cccb29dcb/page/XHCCE/edit) | Looker Studio | Market insights and competition analysis |
+| [`Hangry`](https://lookerstudio.google.com/u/0/reporting/dfd39f25-29ba-4758-ada5-079cccb29dcb/page/XHCCE/edit) | Looker Studio | Market insights and competition analysis |
 
 
 ## 🚀 How to Use
