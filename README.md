@@ -1,6 +1,6 @@
 # MyDashboard
 
-Welcome to **MyDashboard** – a collection of interactive dashboards built using **Power BI**, **Tableau**, and **Looker Studio** . As a Data Analyst with 2 years of experience, I have developed these dashboards to provide insightful visualizations and data-driven decision-making tools.
+Welcome to **MyDashboard** – a collection of interactive dashboards built using **Power BI**, **Tableau**, and **Looker Studio**. As a Data Analyst with 2 years of experience, I have developed these dashboards to provide insightful visualizations and data-driven decision-making tools.
 
 ## 📌 Overview
 This repository showcases my expertise in data visualization through four different dashboards:
@@ -15,14 +15,14 @@ This repository showcases my expertise in data visualization through four differ
 - **Interactive UI/UX** for dynamic filtering and drill-down capabilities.
 - **Customizable visual elements** for enhanced storytelling.
 - **Data-driven insights** to support strategic decision-making.
-- **Multi-platform compatibility** using **Power BI** and **Tableau**.
+- **Multi-platform compatibility** using **Power BI**, **Tableau**, and **Looker Studio**.
 
 ## 📁 Dashboard Files
 | File | Tool | Description |
 |------|------|-------------|
-| `Financial Dashboard.pbix` | Power BI | Sales trends and revenue tracking |
-| `Aero Data Dashboard.pbix` | Power BI | Customer segmentation analysis |
-| `Revenue Insights Dashboard.pbix` | Power BI | Financial KPIs visualization |
+| [`Financial Dashboard.pbix`](https://github.com/hilmireza09/MyDashboard/blob/main/Dashboards/Financial%20Dashboard.pbix) | Power BI | Sales trends and revenue tracking |
+| [`Aero Data Dashboard.pbix`](https://github.com/hilmireza09/MyDashboard/blob/main/Dashboards/Aero%20Data%20Dashboard.pbix) | Power BI | Customer segmentation analysis |
+| [`Revenue Insights Dashboard.pbix`](https://github.com/hilmireza09/MyDashboard/blob/main/Dashboards/Revenue%20Insights%20Dashboard.pbix) | Power BI | Financial KPIs visualization |
 | `Market Analysis.twbx` | Tableau | Market insights and competition analysis |
 | [`Hangry`](https://lookerstudio.google.com/u/0/reporting/dfd39f25-29ba-4758-ada5-079cccb29dcb/page/XHCCE/edit) | Looker Studio | Market insights and competition analysis |
 
@@ -32,7 +32,7 @@ This repository showcases my expertise in data visualization through four differ
    ```sh
    git clone https://github.com/hilmireza09/MyDashboard.git
    ```
-2. Open the respective files using **Power BI** or **Tableau**.
+2. Open the respective files using **Power BI**, **Tableau**, and **Looker Studio**.
 3. Explore the interactive dashboards with filters and drill-down features.
 
 ## 📜 License
