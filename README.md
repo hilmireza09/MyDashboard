@@ -2,7 +2,8 @@
 
 Welcome to **MyDashboard** – a collection of interactive dashboards built using **Power BI**, **Tableau**, and **Looker Studio**. As a Data Analyst with 2 years of experience, I have developed these dashboards to provide insightful visualizations and data-driven decision-making tools.
 
-🌐 **Visit my website:** [MyWebsite](https://www.notion.so/Hi-I-m-Hilmi-18629837434f80d48809c7b5f525e25f)
+[![Website](https://img.shields.io/badge/My%20Website-Click%20Here-blue?style=for-the-badge&logo=google-chrome)](https://plant-asp-e35.notion.site/Hi-I-m-Hilmi-18629837434f80d48809c7b5f525e25f) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hilmi-reza)
 
 ## 📌 Overview
 This repository showcases my expertise in data visualization through four different dashboards:
