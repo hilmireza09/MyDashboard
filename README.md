@@ -2,6 +2,8 @@
 
 Welcome to **MyDashboard** – a collection of interactive dashboards built using **Power BI**, **Tableau**, and **Looker Studio**. As a Data Analyst with 2 years of experience, I have developed these dashboards to provide insightful visualizations and data-driven decision-making tools.
 
+🌐 **Visit my website:** [MyWebsite](https://www.notion.so/Hi-I-m-Hilmi-18629837434f80d48809c7b5f525e25f)
+
 ## 📌 Overview
 This repository showcases my expertise in data visualization through four different dashboards:
 
@@ -26,6 +28,11 @@ This repository showcases my expertise in data visualization through four differ
 | [`Stock Market Dashboard.twbx`](https://github.com/hilmireza09/MyDashboard/blob/main/Dashboards/Stock%20Market%20Dashboard.twbx) | Tableau | Exploring market trends and consumer behavior |
 | [`Hangry Sales`](https://lookerstudio.google.com/u/0/reporting/dfd39f25-29ba-4758-ada5-079cccb29dcb/page/XHCCE/edit) | Looker Studio | Monitoring sales performance and growth at Hangry |
 
+## 📈 Excel Projects
+| File | Description |
+|------|-------------|
+| [`Study case by badr.xlsx`](https://github.com/hilmireza09/MyDashboard/blob/main/Excel/Study%20Case%20by%20badr.xlsx) | These Excel projects demonstrate advanced data analysis techniques |
+| [`Study Case by rataid.xlsx`](https://github.com/hilmireza09/MyDashboard/blob/main/Excel/Study%20Case%20by%20rataid.xlsx) | These Excel projects showcase sophisticated methods for analyzing data |
 
 ## 🚀 How to Use
 1. Clone this repository:
