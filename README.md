@@ -39,9 +39,9 @@ Here are my SQL projects showcasing my database management and query optimizatio
 
 | Project Name               | Description                                      | Tools Used      |
 |----------------------------|--------------------------------------------------|-----------------|
-| [**E-Commerce Sales Analysis**]([link_to_project_1](https://github.com/hilmireza09/MyDashboard/tree/main/SQL%20Projects/E-Commerce%20Sales%20Analysis))           | This project focuses on analyzing sales data for an e-commerce platform | MySQL, SQL Server, Oracle |
-| [**Employee Hierarchy Management**]([link_to_project_2](https://github.com/hilmireza09/MyDashboard/tree/main/SQL%20Projects/Employee%20Hierarchy%20Management))           | This project focuses on managing and analyzing employee hierarchies in a company. | MySQL, SQL Server, Oracle |
-| [**Social Media Analytics**]([link_to_project_3](https://github.com/hilmireza09/MyDashboard/tree/main/SQL%20Projects/Social%20Media%20Analytics))           | This project focuses on analyzing user engagement on a social media platform. | MySQL, SQL Server, Oracle |
+| [**E-Commerce Sales Analysis**](https://github.com/hilmireza09/MyDashboard/tree/main/SQL%20Projects/E-Commerce%20Sales%20Analysis)           | This project focuses on analyzing sales data for an e-commerce platform | MySQL, SQL Server, Oracle |
+| [**Employee Hierarchy Management**](https://github.com/hilmireza09/MyDashboard/tree/main/SQL%20Projects/Employee%20Hierarchy%20Management)           | This project focuses on managing and analyzing employee hierarchies in a company. | MySQL, SQL Server, Oracle |
+| [**Social Media Analytics**](https://github.com/hilmireza09/MyDashboard/tree/main/SQL%20Projects/Social%20Media%20Analytics)           | This project focuses on analyzing user engagement on a social media platform. | MySQL, SQL Server, Oracle |
 
 ## 🚀 How to Use
 1. Clone this repository:
