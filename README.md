@@ -36,8 +36,6 @@ This repository showcases my expertise in data visualization through four differ
 | [`Study Case by rataid.xlsx`](https://github.com/hilmireza09/MyDashboard/blob/main/Excel/Study%20Case%20by%20rataid.xlsx) | These Excel projects showcase sophisticated methods for analyzing data |
 
 ## 📝 SQL Projects
-Here are my SQL projects showcasing my database management and query optimization skills:
-
 | Project Name               | Description                                      | Tools Used      |
 |----------------------------|--------------------------------------------------|-----------------|
 | [**E-Commerce Sales Analysis**](https://github.com/hilmireza09/MyDashboard/tree/main/SQL%20Projects/E-Commerce%20Sales%20Analysis)           | This project focuses on analyzing sales data for an e-commerce platform | MySQL, SQL Server, Oracle |
