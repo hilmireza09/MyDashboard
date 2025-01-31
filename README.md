@@ -45,12 +45,23 @@ Here are my SQL projects showcasing my database management and query optimizatio
 | [**Social Media Analytics**](https://github.com/hilmireza09/MyDashboard/tree/main/SQL%20Projects/Social%20Media%20Analytics)           | This project focuses on analyzing user engagement on a social media platform. | MySQL, SQL Server, Oracle |
 
 ## 🚀 How to Use
+### Dashboards
 1. Clone this repository:
    ```sh
    git clone https://github.com/hilmireza09/MyDashboard.git
    ```
-2. Open the respective files using **Power BI**, **Tableau**, and **Looker Studio**.
-3. Explore the interactive dashboards with filters and drill-down features.
+2. Open the respective **Power BI (.pbix)**, **Tableau (.twbx)**, or **Looker Studio link**.
+3. Interact with the visualizations using filters and drill-down features to explore insights.
+
+### Excel Projects
+1. Download the Excel file from the provided link.
+2. Open the file in **Microsoft Excel** or **Google Sheets**.
+3. Analyze the pre-built data models, pivot tables, and formulas for deeper insights.
+
+### SQL Projects
+1. Navigate to the respective SQL project folder.
+2. Open the `.sql` file in your preferred **SQL IDE** (MySQL Workbench, SQL Server Management Studio, etc.).
+3. Run the queries and analyze the results.
 
 ## 📜 License
 This project is for portfolio and demonstration purposes. Feel free to explore and provide feedback!
