@@ -32,8 +32,8 @@ This repository showcases my expertise in data visualization through four differ
 ## 📈 Excel Projects
 | File | Description |
 |------|-------------|
-| [`Study case by badr.xlsx`](https://github.com/hilmireza09/MyDashboard/blob/main/Excel/Study%20Case%20by%20badr.xlsx) | These Excel projects demonstrate advanced data analysis techniques |
-| [`Study Case by rataid.xlsx`](https://github.com/hilmireza09/MyDashboard/blob/main/Excel/Study%20Case%20by%20rataid.xlsx) | These Excel projects showcase sophisticated methods for analyzing data |
+| [`Study case 1.xlsx`](https://github.com/hilmireza09/MyDashboard/blob/main/Excel/Study%20Case%20by%20badr.xlsx) | These Excel projects demonstrate advanced data analysis techniques |
+| [`Study Case 2.xlsx`](https://github.com/hilmireza09/MyDashboard/blob/main/Excel/Study%20Case%20by%20rataid.xlsx) | These Excel projects showcase sophisticated methods for analyzing data |
 
 ## 📝 SQL Projects
 | Project Name               | Description                                      | Tools Used      |
